@@ -1,0 +1,12 @@
+{
+    "name": "haxors/nadhalaundry",
+    "description": "Aplikasi manajemen laundry",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Haxorsprogramming",
+            "email": "haxorsuinsu@gmail.com"
+        }
+    ],
+    "require": {}
+}
